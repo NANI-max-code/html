@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.imgg {
+    height: 35vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+}
+
+.head1 {
+    padding: 15px;
+    color: white;
+    font-family: "roboto";
+    font-size: 25px;
+}
+
+.puri-img {
+    height: 20vh;
+
+}
+
+.img-cont {
+    padding: 6px;
+}
+
+.puri-head {
+    color: #151765;
+    font-family: "roboto";
+    font-size: 16px;
+    padding: 5px;
+    padding-left: 5px;
+}
+
+.puri-para {
+    color: #5a7184;
+    padding-left: 15px;
+    font-family: "roboto";
+}
+
+.pg2-top {
+    background-color: #151765;
+    height: 33vh;
+    padding: 5px;
+}
+
+.img2 {
+    border-radius: 8px;
+    height: 20vh;
+    margin: 10px;
+}
+
+.puri-head2 {
+    font-family: "roboto";
+    font-size: 16px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+
+.puri-para2 {
+    color: white;
+    font-size: 13px;
+    text-align: left;
+    font-family: "roboto";
+}
+
+.puri-cont1 {
+    background-color: white;
+    width: 100vw;
+}
+
+.pg2-head {
+    color: #151765;
+    font-family: "roboto";
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.pg2-para {
+    color: #5a7184;
+    padding-left: 0px;
+    height: 12vh;
+    font-family: "roboto";
+}
+
+.tym {
+    color: #151765;
+    font-family: "roboto";
+    font-size: 10px;
+    padding: 0px;
+    font-weight: bold;
+}
+
+.but-cont {
+    text-align: right;
+    margin: 10px;
+}
+
+.but {
+    border-radius: 10px;
+    font-family: "roboto";
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #151765;
+    color: white;
+}
